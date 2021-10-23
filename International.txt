@@ -1,0 +1,22 @@
+PNR: 1
+Date of Journey: 21/12/2021
+Flight: Vistara
+Name: mas
+Source :London
+Destination: NewYork
+Arrival time: 14:05
+Departure time: 10:00
+Seat No.: 3
+Ticket Category: Business
+
+PNR: 2
+Date of Journey: 21/12/2021
+Flight: Emirates
+Name: ham
+Source :London
+Destination: Abu Dhabi
+Arrival time: 22:05
+Departure time: 18:00
+Seat No.: 1
+Ticket Category: Business
+

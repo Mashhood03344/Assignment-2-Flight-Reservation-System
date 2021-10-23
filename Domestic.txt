@@ -1,0 +1,21 @@
+PNR: 1
+Date of Journey: 21/12/2012
+Flight: Qantas
+Name: mas
+Source :Brisbane
+Destination: Sydney
+Arrival time: 11:05
+Departure time: 8:00
+Seat No.: 1
+Ticket Category: Business
+
+PNR: 2
+Date of Journey: 21/12/2012
+Flight: Go Air
+Name: ham
+Source :Sydney
+Destination: Canberra
+Arrival time: 22:05
+Departure time: 19:00
+Seat No.: 12
+Ticket Category: Economy
